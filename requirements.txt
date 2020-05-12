@@ -1,4 +1,4 @@
-appdirs==1.4.3
+appdirs==1.4.4
 backports.ssl-match-hostname==3.5.0.1
 future==0.16.0
 packaging==16.8
